@@ -1,0 +1,13 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+    /* background-image: linear-gradient(to left bottom,rgb(93, 93, 216),rgb(230, 73, 73)); */
+    overflow-x: hidden;
+}
+#myroot{
+    border-radius: 30px;
+    margin:0px 30px;
+    padding:10px 0px;
+}

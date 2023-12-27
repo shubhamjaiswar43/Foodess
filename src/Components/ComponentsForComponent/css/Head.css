@@ -1,0 +1,40 @@
+#head{
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Courier New';
+    color:#fff;
+}
+#search-option{
+    display: flex;
+    width:100vw;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#search-option>input,#search-option>select,.btn2{
+    box-sizing: border-box;
+    height:40px;
+    margin:10px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bolder;
+}
+#search-option>input{
+    font-size: 1.5rem;
+    width:1000px;
+}
+.btn2{
+    text-decoration: none;
+    color:#000;
+    border:2px solid black;
+    padding:10px 30px;
+    cursor: pointer;
+    transition: all 200ms;
+}
+.btn2:hover{
+    background-color: #fff;
+}
+#search-option>select{
+    width: 180px;
+    cursor: pointer;
+}

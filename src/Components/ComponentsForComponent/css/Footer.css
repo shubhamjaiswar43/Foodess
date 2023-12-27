@@ -1,0 +1,11 @@
+#end {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+@media only screen and (max-width:1170px){
+    #end{
+        font-size: 12px;
+    }
+}
