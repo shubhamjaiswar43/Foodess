@@ -1,9 +1,8 @@
 # Foodess
-
 ### • Foodess is a sleek and user-friendly React.js-based web application designed for effortless food ordering
 ### • The responsive design guarantees a smooth interaction across various devices, while the streamlined checkout process.
 ### • Foodess delivers a delightful and efficient online food ordering experience.
-
+#### LINK : [Foodess](https://foodessbyme.netlify.app)
 ### Home Page
 ![Screenshot (788)](https://github.com/shubhamjaiswar43/Foodess/assets/118053732/82d4fdbb-7d0b-426e-a7cd-61ab87169480)
 
@@ -26,5 +25,3 @@
 
 ### User Can Search/Filter Foods Based On Their Interest
 ![Screenshot (793)](https://github.com/shubhamjaiswar43/Foodess/assets/118053732/fad28f60-e847-46a3-824f-a54c501a2907)
-
-#### LINK : [Foodess](https://foodessbyme.netlify.app)
