@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Foodess
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### • Foodess is a sleek and user-friendly React.js-based web application designed for effortless food ordering
+### • The responsive design guarantees a smooth interaction across various devices, while the streamlined checkout process.
+### • Foodess delivers a delightful and efficient online food ordering experience.
 
-## Available Scripts
+### Home Page
+![Screenshot (788)](https://github.com/shubhamjaiswar43/Foodess/assets/118053732/82d4fdbb-7d0b-426e-a7cd-61ab87169480)
 
-In the project directory, you can run:
 
-### `npm start`
+### Service Section
+![Screenshot (789)](https://github.com/shubhamjaiswar43/Foodess/assets/118053732/44643d5b-2bdb-4367-a0f4-0700e4569c9b)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Client Section
+![Screenshot (790)](https://github.com/shubhamjaiswar43/Foodess/assets/118053732/75a62e6d-61e3-433e-9d06-98caa51925c1)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Contact Section
+![Screenshot (791)](https://github.com/shubhamjaiswar43/Foodess/assets/118053732/a00f7d94-2da4-4313-b690-fa76e355fff5)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Ordering Page
+![Screenshot (792)](https://github.com/shubhamjaiswar43/Foodess/assets/118053732/23dfc9ee-d912-42c7-a712-8fad3386ba0f)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### User Can Search/Filter Foods Based On Their Interest
+![Screenshot (793)](https://github.com/shubhamjaiswar43/Foodess/assets/118053732/fad28f60-e847-46a3-824f-a54c501a2907)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### LINK : [Foodess](https://foodessbyme.netlify.app)
